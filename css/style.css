@@ -165,8 +165,9 @@ ul li {
     color: dodgerblue;
 }
 
-ul li :hover {
+.list ul li :hover {
  
-    color: #ffad6f;
+text-decoration: underline;
+text-decoration-color: #ffad6f;
 
 }
