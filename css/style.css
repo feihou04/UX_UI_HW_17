@@ -82,8 +82,8 @@ ul li {
 .mystory h3 {
     display: inline-block;
     vertical-align: top;
-    margin-block-end: 0;
-    margin-block-start: 1.5em;
+    padding-right: 25px;
+    
 }
 .mystory p {
     text-align: justify;
@@ -181,4 +181,13 @@ ul li {
 text-decoration: underline;
 text-decoration-color: #ffad6f;
 
+}
+.imgbox {
+    display: inline-block;
+       border: 1px solid white;
+}
+.imgbox :hover {
+    display: inline-block;
+    border: 2px solid #ffad6f;
+    border-radius: 50%;
 }
