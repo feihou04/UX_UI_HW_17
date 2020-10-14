@@ -20,12 +20,12 @@ header {
 }
 
 .logo {
-    width: 50%;
+    width: 44%;
     padding: 1%;
     margin-left: 15px;
 }
 nav {
-    width: 44%;
+    width: 48%;
     padding: 1%;
 }
 
@@ -74,6 +74,7 @@ ul li {
 .mystory {
     margin-left: 12%;
     margin-right: 12%;
+    font-size: 24px;
 }
 .mystorytitle {
     color: #ffad6f;
@@ -93,6 +94,7 @@ ul li {
     background-image: url(../images/skillimg41.png);
     background-repeat: no-repeat;
     background-position-x: center;
+    font-size: 20px;
   
 }
 .margin {
@@ -110,7 +112,15 @@ ul li {
 .tool, .design, .other {
     display: inline-block;
     vertical-align: top;
-    width: 33%;
+    width: 29%;
+    margin-block-start: -1em;
+
+   
+}
+ .other {
+    display: inline-block;
+    vertical-align: top;
+    width: 41%;
     margin-block-start: -1em;
 
    
@@ -119,7 +129,13 @@ ul li {
 .skill ul {
     list-style: none;
     padding-left: 0px;
+    padding-right: 0px;
     
+}
+
+.skill li {
+    padding: 0px;
+
 }
 .tool h3, .design h3, .other h3 {
     text-align: left;
@@ -133,23 +149,26 @@ ul li {
     margin-top: 25px;
     padding-top: 30px;
     margin-bottom: 25px;
+    font-size: 20px;
+
 }
 .education1 {
     display: inline-block;
     vertical-align: top;
-    width: 46%;
-    margin-right: 100px;
+    width: 47%;
+    margin-right: 60px;
 
    
 }
  .designation {
     display: inline-block;
     vertical-align: top;
-    width: 46%;
+    width: 47%;
     margin-right: 0px;
  }
  footer {
      background-color: #19292d;
+     font-size: 22px;
  }
 .copyright {
     width: 80%;
