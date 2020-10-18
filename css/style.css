@@ -120,7 +120,7 @@ ul li {
  .other {
     display: inline-block;
     vertical-align: top;
-    width: 41%;
+    width: 40%;
     margin-block-start: -1em;
 
    
@@ -155,7 +155,7 @@ ul li {
 .education1 {
     display: inline-block;
     vertical-align: top;
-    width: 47%;
+    width: 46%;
     margin-right: 60px;
 
    
@@ -163,7 +163,7 @@ ul li {
  .designation {
     display: inline-block;
     vertical-align: top;
-    width: 47%;
+    width: 46%;
     margin-right: 0px;
  }
  footer {
@@ -171,13 +171,13 @@ ul li {
      font-size: 22px;
  }
 .copyright {
-    width: 80%;
+    width: 77%;
     color: #dfebed;
     padding: 1%;
     margin-left: 40px;
 }
 .socialmedia {
-    width: 10%;
+    width: 12%;
     padding: 1%;
 
 
